@@ -1,8 +1,11 @@
 # python-hangman
 
+# Usage
+- This can be executed by running ``main.py```
+
 # Introduction
 - Hangman game made using Python
-- Guess a letter
+- Try to spell out the word letter by letter (over 200 words!)
 - If it is correct the letter chosen will be displayed in the word selected
 - If it is incorrect the hangman will start to draw itself
 - Once the word is guessed correctly or the hangman drawing completes the game is over

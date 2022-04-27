@@ -1,7 +1,7 @@
 # python-hangman
 
 # Usage
-- This can be executed by running ``main.py```
+- This can be executed by running ```main.py```
 
 # Introduction
 - Hangman game made using Python

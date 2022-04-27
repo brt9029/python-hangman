@@ -11,7 +11,7 @@
 - Once the word is guessed correctly or the hangman drawing completes the game is over
 
 # Screenshot:
-- ![image](https://user-images.githubusercontent.com/26530136/165597999-02e13474-e08c-4acc-a471-0be30667907b.png)
+- ![image](https://user-images.githubusercontent.com/26530136/165598372-c7a0d35a-c7f0-4832-84ad-321df40b0ec0.png)
 
 # Credits
 - Created by: [brt9029](www.github.com/brt9029 "GitHub Profile Link")

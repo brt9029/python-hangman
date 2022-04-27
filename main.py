@@ -5,7 +5,7 @@ from hangman_art import stages, logo
 chosen_word = random.choice(word_list)
 print(f"{logo}")
 #Testing code
-print(f'Pssst, the solution is {chosen_word}.')
+# print(f'Pssst, the solution is {chosen_word}.')
 
 
 display = []
